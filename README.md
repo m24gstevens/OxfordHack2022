@@ -3,7 +3,7 @@
 My Submission for Oxford Hack 2022
 
 ## Project Summary
-- Hand Written Chess Engine (OxChessBot.exe)
+- Hand Written Chess Engine, written in C Language (OxChessBot.exe)
 - Embedded Stockfish NNUE Evaluation into the engine (OxChessBotNNUE.exe)
 - Able to play the bot on Lichess.org by a connection via Lichess Bot API
 
